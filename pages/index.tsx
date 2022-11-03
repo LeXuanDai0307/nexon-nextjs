@@ -8,6 +8,9 @@ export default function Home() {
       <button>
         <Link href="/events">Events</Link>
       </button>
+      <button>
+        <Link href="/products">Products</Link>
+      </button>
     </div>
   );
 }
